@@ -4,13 +4,17 @@
 ```md
 # 🔎 MyRecon-Pro
 
-MyRecon-Pro is a professional Python-based OSINT (Open Source Intelligence) reconnaissance tool designed for gathering and analyzing information about domains, IP addresses, and network infrastructure. It helps security researchers and ethical hackers automate intelligence collection in one place.
+MyRecon-Pro is a professional Python-based OSINT (Open Source Intelligence)reconnaissance
+tool designed for gathering and analyzing information about domains, IP addresses, and network infrastructure.
+It helps security researchers and ethical hackers automate intelligence collection in one place.
 
 ---
 
 ## ⚡ Overview
 
-MyRecon-Pro provides automated reconnaissance capabilities to extract valuable information such as WHOIS data, DNS records, IP details, subdomains, SSL certificates, email addresses, and archived website data.
+MyRecon-Pro provides automated reconnaissance capabilities to extract
+valuable information such as WHOIS data, DNS records, IP details, subdomains,
+SSL certificates, email addresses, and archived website data.
 
 This tool is built for **educational and ethical cybersecurity research purposes only**.
 
@@ -123,7 +127,8 @@ pip install -r requirements.txt
 
 This tool is created strictly for **educational purposes and legal security research**.
 
-Any misuse of this tool against systems without permission is strictly prohibited. The developer is not responsible for any illegal activity performed using this tool.
+Any misuse of this tool against systems without permission is strictly prohibited. 
+The developer is not responsible for any illegal activity performed using this tool.
 
 ---
 
