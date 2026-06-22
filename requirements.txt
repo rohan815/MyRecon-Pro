@@ -1,0 +1,9 @@
+requests==2.31.0
+dnspython==2.6.1
+python-whois==0.9.4
+shodan==1.30.0
+beautifulsoup4==4.12.3
+lxml==5.1.0
+colorama==0.4.6
+tldextract==5.1.2
+urllib3==2.2.1
