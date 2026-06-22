@@ -1,6 +1,3 @@
-Samajh gaya 👍 tumhe **single clean professional README file** chahiye jisko seedha copy-paste kar sako (no confusion, no duplicates).
-
-Yeh lo — improved + polished version 👇
 
 ---
 
@@ -35,8 +32,6 @@ This tool is built for **educational and ethical cybersecurity research purposes
 ---
 
 ## 🧱 Project Structure
-
-```
 MyRecon-Pro/
 │
 ├── main.py
@@ -64,9 +59,6 @@ MyRecon-Pro/
 ├── requirements.txt
 └── README.md
 
-````
-
----
 
 ## ⚙️ Installation
 
