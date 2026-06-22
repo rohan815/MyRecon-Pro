@@ -37,30 +37,30 @@ This tool is built for **educational and ethical cybersecurity research purposes
 ## 🧱 Project Structure
 
 ```
-
 MyRecon-Pro/
 │
 ├── main.py
 │
 ├── core/
-│ ├── banner.py
-│ ├── config.py
-│ └── utils.py
+│   ├── banner.py
+│   ├── config.py
+│   └── utils.py
 │
 ├── modules/
-│ ├── whois_lookup.py
-│ ├── dns_lookup.py
-│ ├── ip_lookup.py
-│ ├── headers.py
-│ ├── subdomains.py
-│ ├── emails.py
-│ ├── shodan_lookup.py
-│ ├── netcraft_lookup.py
-│ ├── ssl_info.py
-│ └── wayback.py
+│   ├── whois_lookup.py
+│   ├── dns_lookup.py
+│   ├── ip_lookup.py
+│   ├── headers.py
+│   ├── subdomains.py
+│   ├── emails.py
+│   ├── shodan_lookup.py
+│   ├── netcraft_lookup.py
+│   ├── ssl_info.py
+│   └── wayback.py
 │
 ├── reports/
 ├── output/
+│
 ├── requirements.txt
 └── README.md
 
